@@ -1,4 +1,2 @@
 # firsttracker
-Tracker uang bulanan
-Proyek pertama yang berhasil saya selesaikan. Hehe. 
-Terimakasih Udemy buat promonya.
+Proyek postponed karena gw udh lama ga ngoding JavaScript hehe.
